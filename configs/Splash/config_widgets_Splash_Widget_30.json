@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<div><font size=\"6\"><span style=\"font-family: Tahoma;\"> </span></font></div>\n\t<div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">\n\tSelamat Datang di Portal Absensi Mata Kuliah di Geografi UI 2<span style=\"background-color: rgb(135, 206, 250);\"></span>020-2021</span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">yang diampu oleh Satria Indratmoko, M.Sc</span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\"><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">Untuk absensi dapat diisi menggunakan tautan berikut:</span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">1. <a href=\"https://arcg.is/r0PaW\" target=\"_self\">Praktikum Geografi Fisik 2 (A)</a><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">2. <a href=\"https://arcg.is/1fDeDm\" target=\"_self\">Praktikum Geografi Fisik 2 (B)</a><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">3. <a href=\"https://arcg.is/1jL9Di\" target=\"_self\">Praktikum Geografi Fisik 2 (E)</a></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">4. <a href=\"https://arcg.is/TCjza\" target=\"_self\">Praktikum Statistik Geografi (B)</a></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">5. <a href=\"https://arcg.is/0SqTGC\" target=\"_self\">Praktikum Statistik Geografi (E)</a></span></font><br /><font size=\"6\"><span style=\"font-family: Tahoma;\"></span></font><font size=\"6\"><span style=\"font-family: Tahoma;\"></span></font>\n</div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "percent",
+      "percent": "75%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#485566",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}

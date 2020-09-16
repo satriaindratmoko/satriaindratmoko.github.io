@@ -1,0 +1,259 @@
+{
+  "layerInfos": [
+    {
+      "name": "Absensi PGF 1 B",
+      "id": "76ab39f8ce26404aa81bd091db4a6eb0",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_16b42a2dff764582a323b5ad806708bf_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "show": false,
+            "name": "objectid",
+            "alias": "ObjectID"
+          },
+          {
+            "show": false,
+            "name": "globalid",
+            "alias": "GlobalID"
+          },
+          {
+            "show": false,
+            "name": "CreationDate",
+            "alias": "CreationDate"
+          },
+          {
+            "show": false,
+            "name": "Creator",
+            "alias": "Creator"
+          },
+          {
+            "show": true,
+            "name": "EditDate",
+            "alias": "Tanggal"
+          },
+          {
+            "show": false,
+            "name": "Editor",
+            "alias": "Editor"
+          },
+          {
+            "show": true,
+            "name": "nama",
+            "alias": "Nama"
+          },
+          {
+            "show": true,
+            "name": "npm",
+            "alias": "NPM"
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": true,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi PGF 2B",
+      "id": "b7ba8627617d41499b74eef6c2f61e5b",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_5d826968d9864b6b8fa71fab910f50c6_stakeholder/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi Prakstat B",
+      "id": "3b4bd97cf5f144b2a282c222d6b49937",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_751c3ebe6f5e4d49a3b2f4d13d03c545_stakeholder/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime",
+              "timezone": "utc"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate",
+              "timezone": "utc"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi PGF 2 A",
+      "id": "a879c71990c14a59b6a83684634ef05a",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_1437e7b5624448c293613e6d06438e2e_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime",
+              "timezone": "utc"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate",
+              "timezone": "utc"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
