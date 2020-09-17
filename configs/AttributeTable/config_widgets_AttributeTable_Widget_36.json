@@ -7,48 +7,54 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_5cba8a7ce0424adf80eb35195cbf90dd_fieldworker/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -60,48 +66,60 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_16b42a2dff764582a323b5ad806708bf_fieldworker/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -113,48 +131,60 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_1437e7b5624448c293613e6d06438e2e_fieldworker/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -166,48 +196,54 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_5d826968d9864b6b8fa71fab910f50c6_stakeholder/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -266,7 +302,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": false,
       "sortField": "nama",
       "isDescending": false
@@ -278,48 +314,60 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_751c3ebe6f5e4d49a3b2f4d13d03c545_stakeholder/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate",
+              "timezone": "utc"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -331,48 +379,54 @@
         "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_d4d5c323f9b848ed859e68085e4da17e_fieldworker/FeatureServer/0",
         "fields": [
           {
-            "show": false,
             "name": "objectid",
-            "alias": "ObjectID"
+            "alias": "ObjectID",
+            "show": false
           },
           {
-            "show": false,
             "name": "globalid",
-            "alias": "GlobalID"
+            "alias": "GlobalID",
+            "show": false
           },
           {
-            "show": false,
             "name": "CreationDate",
-            "alias": "CreationDate"
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
           },
           {
-            "show": false,
             "name": "Creator",
-            "alias": "Creator"
+            "alias": "Creator",
+            "show": false
           },
           {
-            "show": true,
             "name": "EditDate",
-            "alias": "Tanggal"
+            "alias": "Tanggal",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDate"
+            }
           },
           {
-            "show": false,
             "name": "Editor",
-            "alias": "Editor"
+            "alias": "Editor",
+            "show": false
           },
           {
-            "show": true,
             "name": "nama",
-            "alias": "Nama"
+            "alias": "Nama",
+            "show": true
           },
           {
-            "show": true,
             "name": "npm",
-            "alias": "NPM"
+            "alias": "NPM",
+            "show": true
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -390,5 +444,5 @@
   "initiallyExpand": false,
   "filterByMapExtent": true,
   "allowTextSelection": true,
-  "syncWithLayers": false
+  "syncWithLayers": true
 }

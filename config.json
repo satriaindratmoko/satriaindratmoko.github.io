@@ -269,7 +269,8 @@
         "config": "configs/AttributeTable/config_widgets_AttributeTable_Widget_36.json",
         "position": {
           "relativeTo": "map"
-        }
+        },
+        "openAtStart": false
       },
       {
         "name": "Measurement",
