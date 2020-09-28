@@ -1,0 +1,9 @@
+{
+  "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "Absensi Mata Kuliah di Geografi UI ATA 2020-2021",
+  "defaultAuthor": "Satria Indratmoko",
+  "defaultCopyright": "",
+  "defaultFormat": "PDF",
+  "defaultLayout": "A4 Landscape",
+  "copyrightEditable": true
+}

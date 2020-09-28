@@ -54,7 +54,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -119,7 +119,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -184,7 +184,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -243,7 +243,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -302,7 +302,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": false,
       "sortField": "nama",
       "isDescending": false
@@ -367,7 +367,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -426,7 +426,7 @@
           }
         ]
       },
-      "show": null,
+      "show": true,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -444,5 +444,5 @@
   "initiallyExpand": false,
   "filterByMapExtent": true,
   "allowTextSelection": true,
-  "syncWithLayers": true
+  "syncWithLayers": false
 }
