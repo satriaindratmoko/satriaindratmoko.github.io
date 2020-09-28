@@ -442,7 +442,7 @@
   },
   "hideExportButton": false,
   "initiallyExpand": false,
-  "filterByMapExtent": true,
+  "filterByMapExtent": false,
   "allowTextSelection": true,
   "syncWithLayers": false
 }
