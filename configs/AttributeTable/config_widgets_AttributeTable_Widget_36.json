@@ -1,6 +1,65 @@
 {
   "layerInfos": [
     {
+      "name": "Absensi Prak SIG S2",
+      "id": "survey123_c49ec05b779c4027ba0afab0a760cbdd_fieldworker_369",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_c49ec05b779c4027ba0afab0a760cbdd_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
       "name": "Cek Lokasi Mahasiswa PGF 1 C",
       "id": "survey123_5cba8a7ce0424adf80eb35195cbf90dd_fieldworker_4792",
       "layer": {
@@ -54,7 +113,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -119,7 +178,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -184,7 +243,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -243,7 +302,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -302,7 +361,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": false,
       "sortField": "nama",
       "isDescending": false
@@ -367,7 +426,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -426,7 +485,7 @@
           }
         ]
       },
-      "show": true,
+      "show": null,
       "showAttachments": true,
       "sortField": "nama",
       "isDescending": false
@@ -444,5 +503,5 @@
   "initiallyExpand": false,
   "filterByMapExtent": false,
   "allowTextSelection": true,
-  "syncWithLayers": false
+  "syncWithLayers": true
 }
