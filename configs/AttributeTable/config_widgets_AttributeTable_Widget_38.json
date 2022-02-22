@@ -1,0 +1,352 @@
+{
+  "layerInfos": [
+    {
+      "name": "Absensi Prak SIG D 2022",
+      "id": "survey123_9d7998451cb247ff93c3251ca0017c29_22",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_9d7998451cb247ff93c3251ca0017c29/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          },
+          {
+            "name": "tanggal_absen",
+            "alias": "Tanggal Absen",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "objectid",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi Prak SIG C 2022",
+      "id": "survey123_d52107c97b3843d7af82a4cb31fc2709_923",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_d52107c97b3843d7af82a4cb31fc2709/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          },
+          {
+            "name": "tanggal_absen",
+            "alias": "Tanggal Absen",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "objectid",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi Prak SIG A 2022",
+      "id": "survey123_51a2e4b6c90947dfa0ee0d7c7ea96e43_6927",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_51a2e4b6c90947dfa0ee0d7c7ea96e43/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          },
+          {
+            "name": "tanggal_absen",
+            "alias": "Tanggal Absen",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "objectid",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi Geokomputasi 2022",
+      "id": "survey123_344ed57e6dbf43f092d0408aab39c79f_5141",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_344ed57e6dbf43f092d0408aab39c79f/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          },
+          {
+            "name": "tanggal_absen",
+            "alias": "Tanggal Absen",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "objectid",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi Kebmet 2022",
+      "id": "survey123_dbd552f5d16e4af581f5383604bfd1f1_5708",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_dbd552f5d16e4af581f5383604bfd1f1/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          },
+          {
+            "name": "tanggal_absen",
+            "alias": "Tanggal Absen",
+            "show": true,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "objectid",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
